@@ -763,6 +763,12 @@ h6 {
 .bold {
     font-weight: bold !important;
 }
+
+.skills-section {
+    background-color: rgba(5, 5, 5, 0.15);
+    padding-bottom: 40px;
+}
+
 .skills-section .icon-box {
     text-align: center;
     padding: 70px 20px 80px 20px;
